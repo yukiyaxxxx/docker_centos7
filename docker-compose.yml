@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  centos:
+    container_name: c_7
+    build: ./
+    tty: true
+    privileged: true
+    ports:
+      - "8080:80"
+
