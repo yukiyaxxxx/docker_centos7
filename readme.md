@@ -2,5 +2,5 @@ docker_centos7
 ====
 
 
-apacheやphpをクリーンインストールしてsystemctlを使用できるcentos7
+systemctlを使用できるほぼ初期状態のcentos7
 
